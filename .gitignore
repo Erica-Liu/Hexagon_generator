@@ -1,2 +1,6 @@
 venv
 .idea
+env
+.gitignore
+.DS_Store
+__pycache__
