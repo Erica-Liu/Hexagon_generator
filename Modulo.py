@@ -19,6 +19,9 @@ import graph_generation
 from sys import maxsize as INT_MAX
 from collections import deque
 
+
+
+
 N = 100200
 
 gr = [0] * N
@@ -175,21 +178,23 @@ class Hexagon:
 
 
 if __name__ == '__main__':
-
+    f = open("starting_point_2_cycle_9.txt", "a")
     info_list = []
-    p_list = [3,4,5,6,7,8,9,10,11]
+    p_list = [7]
 
-    desired_list = [129,2,5,7,10,77,20,53,29]
+    #desired_list = [129,2,5,7,10,77,20,53,29]
 
     graph_list = []
-    for i in p_list:
+
+    for i in range(2,3):
         vertex_dict = {}
-        p = i  # modulo
+        p = 7  # modulo
         vertex_num = 0
         diG = nx.DiGraph()
         G = nx.Graph()
         sim_G = nx.DiGraph()
         start_list = [0, 1, 0, 0, 1, 0]
+        start_list = [k * i for k in start_list]
         start_point = Hexagon(p, vertex_num, start_list, start_list)
         # start_point.hexagon_img()
         vertex_dict[vertex_num] = start_point
@@ -214,21 +219,16 @@ if __name__ == '__main__':
             G.add_node(k)
             for n in vertex_dict[k].neighbors:
                 assert isinstance(n, int)
-
-
                 diG.add_edge(k, n)
-                G.add_edge(k, n)
-                add_edge(k, n)
-                """
                 if n > k:
                     G.add_edge(k,n)
-                    add_edge(k,n)
-`               """
 
-        """
+
+
         #generate gradient map
+
         d = {}
-        for k in vertex_dict:
+        for k in vertex_dict: #nodes index
             if k == 0:
                 d[k] = 0
             else:
@@ -236,6 +236,8 @@ if __name__ == '__main__':
                 n = min(vertex_dict[k].neighbors)
                 d[k] = d[n]+1
 
+
+        """
         for v in d:
             if v in desired_list:
                 print("index")
@@ -285,7 +287,7 @@ if __name__ == '__main__':
         A = to_agraph(sim_G)
         A.layout('dot')
         A.draw('dot_multi_'+ str(p)+'.png')
-        """
+        
         A = nx.to_numpy_matrix(G)
         #print(A)
         eigvals, eigvecs = la.eig(A)
@@ -296,7 +298,8 @@ if __name__ == '__main__':
         second = eigvals[-2]
         #spec.adjacency_spectrum(G)
 
-        """
+        
+        cycle_9_list = []
         girth_dict = {}
         girth_len_dict = {}
         for c in cycles.minimum_cycle_basis(G):
@@ -308,34 +311,62 @@ if __name__ == '__main__':
                 girth_len_dict[len(c)] = 1
             else:
                 girth_len_dict[len(c)] = girth_len_dict[len(c)] + 1
-        
 
-        cycle_9_list = [[129,2,5,7,10,77,20,53,29],[]]
-        n = vertex_num + 1
-        for cycle_9 in cycle_9_list:
-            for v in cycle_9:
-                print("index" + str(v))
-
-                print("fold_angles:")
-                print(vertex_dict[v].fold_angles)
-                print("real_angles")
-                print(vertex_dict[v].real_angles)
-                print("neighbors:")
-                print(vertex_dict[v].neighbors)
-                print("distance:")
-                print(d[v])
-
+        print(f"\n for starting point {i}", file=f)
+        print(f"girth_len_dict:{girth_len_dict}", file=f)
+        print(f"cycle_9_list: {cycle_9_list}", file=f )
 
         """
-        #print(len(vertex_dict))
+        cycle_9_list = [[129,2,5,7,10,77,20,53,29],[1,3,4,39,104,8,14,22,58]]
+        for cycle_9 in cycle_9_list:
+            for v in cycle_9:
+                print("index:" + str(v), file=f)
+                print(f'[!]fold_angles: {vertex_dict[v].fold_angles}', file=f)
+                print(f"[@]real_angles:{vertex_dict[v].real_angles}", file=f)
+                print(f"neighbors:{vertex_dict[v].neighbors}", file=f)
+                print(f"distance:{d[v]}\n", file=f)
+        #n = vertex_num + 1
+        """
+        distance_iso_dict = {}
+        for s in range(1,7):
+            print("\n##########with starting point " + str(i) + " #######")
+            for cycle_9 in cycle_9_list:
+                print(f"cycle: {cycle_9}")
+                for v in cycle_9:
+                    if s != 1:
+                        #do the convert
+                        fold_algs = vertex_dict[v].fold_angles
+                        iso_fold_algs = [(alg * s) % 7 for alg in fold_algs]
+                        #check the related distance
+                        for k in vertex_dict:
+                            if vertex_dict[k].fold_angles == iso_fold_algs:
+                                print("index:" + str(k), file=f)
+                                print(f'[!]fold_angles: {vertex_dict[k].fold_angles}', file=f)
+                                print(f"[@]real_angles:{vertex_dict[k].real_angles}", file=f)
+                                print(f"neighbors:{vertex_dict[k].neighbors}", file=f)
+                                print(f"distance:{d[k]}\n", file=f)
+                                distance_iso_dict[v].append(d[k])
+                    else:
+                        distance_iso_dict[v] = [d[v]]
+                        print("index:" + str(v), file=f)
+                        print(f'[!]fold_angles: {vertex_dict[v].fold_angles}', file=f)
+                        print(f"[@]real_angles:{vertex_dict[v].real_angles}", file=f)
+                        print(f"neighbors:{vertex_dict[v].neighbors}", file=f)
+                        print(f"distance:{d[v]}\n", file=f)
 
+
+        for key in distance_iso_dict:
+            print(f"{key}'s distances: {distance_iso_dict[key]}", file=f)
+        f.close()
+        #print(len(vertex_dict))
+        """
         #girth = shortest_cycle(n)/2
-        info = [p, distinct_eigval_num, first, second]
+        #info = [p, distinct_eigval_num, first, second]
         #info = [p, n, girth_dict, girth_len_dict]
         #info = [p, n, bipartite.is_bipartite(G), distance_measures.diameter(G), girth , first, second]
-        info_list.append(info)
+        #info_list.append(info)
 
-
-    print(tabulate(info_list,headers = ["p","# of dictinct eigenvalues","first","second"]))
+    f.close()
+    #print(tabulate(info_list,headers = ["p","# of dictinct eigenvalues","first","second"]))
     #print(tabulate(info_list, headers=["p", "vertex number", "is bipartite", "diameter", "girth", "largest eigenval", "2nd largest eigenval"]))
     #print(tabulate(info_list, headers=["p", "vertex number", "girth list","girth length dict"]))

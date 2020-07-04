@@ -1,0 +1,1314 @@
+index:129
+[!]fold_angles: [0, 6, 3, 3, 3, 6]
+[@]real_angles:[14, 27, -18, 38, 3, 6]
+neighbors:[77, 53, 216, 232, 233]
+distance:5
+
+index:2
+[!]fold_angles: [0, 1, 0, 2, 6, 2]
+[@]real_angles:[0, 1, 0, 2, -1, 2]
+neighbors:[5, 6, 0, 7]
+distance:1
+
+index:5
+[!]fold_angles: [2, 6, 2, 2, 6, 2]
+[@]real_angles:[2, -1, 2, 2, -1, 2]
+neighbors:[10, 2, 14, 15, 1, 16]
+distance:2
+
+index:7
+[!]fold_angles: [4, 1, 0, 2, 3, 5]
+[@]real_angles:[4, 1, 0, 2, 3, -2]
+neighbors:[20, 16, 19, 21, 2]
+distance:2
+
+index:10
+[!]fold_angles: [5, 3, 2, 2, 6, 6]
+[@]real_angles:[-2, 3, 2, 2, -1, 6]
+neighbors:[5, 24, 27, 29, 3, 30]
+distance:3
+
+index:77
+[!]fold_angles: [5, 1, 1, 3, 3, 6]
+[@]real_angles:[-2, 15, -6, 10, 3, 6]
+neighbors:[41, 129, 29, 139, 158, 176]
+distance:5
+
+index:20
+[!]fold_angles: [3, 2, 0, 2, 3, 6]
+[@]real_angles:[-4, 9, 0, 2, 3, 6]
+neighbors:[7, 53, 52, 54, 55]
+distance:3
+
+index:53
+[!]fold_angles: [0, 5, 4, 2, 3, 6]
+[@]real_angles:[14, -9, 18, 2, 3, 6]
+neighbors:[20, 129, 127, 130, 131]
+distance:4
+
+index:29
+[!]fold_angles: [5, 3, 6, 5, 3, 6]
+[@]real_angles:[-2, 3, 6, -2, 3, 6]
+neighbors:[15, 66, 77, 10, 78, 79]
+distance:4
+
+index:1
+[!]fold_angles: [2, 6, 2, 0, 1, 0]
+[@]real_angles:[2, -1, 2, 0, 1, 0]
+neighbors:[3, 0, 4, 5]
+distance:1
+
+index:3
+[!]fold_angles: [5, 3, 2, 0, 1, 4]
+[@]real_angles:[-2, 3, 2, 0, 1, 4]
+neighbors:[1, 8, 9, 10, 11]
+distance:2
+
+index:4
+[!]fold_angles: [2, 3, 5, 4, 1, 0]
+[@]real_angles:[2, 3, -2, 4, 1, 0]
+neighbors:[9, 12, 1, 13, 14]
+distance:2
+
+index:39
+[!]fold_angles: [2, 3, 3, 1, 4, 2]
+[@]real_angles:[2, 3, 10, -6, 11, 2]
+neighbors:[73, 96, 102, 14, 103, 104]
+distance:4
+
+index:104
+[!]fold_angles: [6, 3, 3, 1, 1, 5]
+[@]real_angles:[6, 3, 10, -6, 15, -2]
+neighbors:[209, 200, 58, 40, 85, 39]
+distance:5
+
+index:8
+[!]fold_angles: [4, 4, 1, 0, 1, 4]
+[@]real_angles:[4, -3, 8, 0, 1, 4]
+neighbors:[22, 3, 23, 24, 25]
+distance:3
+
+index:14
+[!]fold_angles: [2, 3, 5, 6, 6, 2]
+[@]real_angles:[2, 3, -2, 6, -1, 2]
+neighbors:[27, 36, 5, 39, 4, 40]
+distance:3
+
+index:22
+[!]fold_angles: [3, 5, 1, 0, 1, 5]
+[@]real_angles:[-4, 5, 8, 0, 1, 12]
+neighbors:[8, 58, 59, 60, 61]
+distance:4
+
+index:58
+[!]fold_angles: [6, 2, 4, 0, 1, 5]
+[@]real_angles:[6, -5, 18, 0, 1, 12]
+neighbors:[140, 22, 104, 141, 102]
+distance:5
+
+index:234
+[!]fold_angles: [0, 5, 6, 6, 6, 5]
+[@]real_angles:[14, -9, 34, -8, 13, 12]
+neighbors:[132, 273, 130, 276, 272]
+distance:6
+
+index:224
+[!]fold_angles: [0, 2, 0, 4, 5, 4]
+[@]real_angles:[0, 9, 56, -24, 33, 32]
+neighbors:[150, 118, 274, 135]
+distance:6
+
+index:150
+[!]fold_angles: [4, 5, 4, 4, 5, 4]
+[@]real_angles:[4, 61, -24, 32, 33, 4]
+neighbors:[90, 224, 63, 136, 182, 126]
+distance:6
+
+index:135
+[!]fold_angles: [1, 2, 0, 4, 6, 3]
+[@]real_angles:[8, 9, 0, 32, -15, 24]
+neighbors:[212, 126, 213, 55, 224]
+distance:5
+
+index:90
+[!]fold_angles: [3, 6, 4, 4, 5, 5]
+[@]real_angles:[24, 13, 4, 4, 33, -16]
+neighbors:[150, 83, 142, 191, 82, 33]
+distance:5
+
+index:132
+[!]fold_angles: [3, 2, 2, 6, 6, 5]
+[@]real_angles:[-4, 9, 16, -8, 13, 12]
+neighbors:[56, 234, 191, 54, 186, 189]
+distance:5
+
+index:212
+[!]fold_angles: [6, 4, 0, 4, 6, 5]
+[@]real_angles:[6, 11, 14, -10, 27, -2]
+neighbors:[135, 273, 108, 134, 107]
+distance:6
+
+index:273
+[!]fold_angles: [0, 3, 1, 4, 6, 5]
+[@]real_angles:[42, 3, 50, -24, 69, -16]
+neighbors:[212, 234, 181, 236, 180]
+distance:7
+
+index:191
+[!]fold_angles: [3, 6, 5, 3, 6, 5]
+[@]real_angles:[24, 13, 12, -4, 41, -16]
+neighbors:[136, 183, 132, 90, 217, 88]
+distance:6
+
+index:182
+[!]fold_angles: [4, 5, 4, 0, 2, 0]
+[@]real_angles:[-24, 33, 32, 0, 9, 56]
+neighbors:[82, 274, 98, 150]
+distance:6
+
+index:82
+[!]fold_angles: [3, 6, 4, 0, 2, 1]
+[@]real_angles:[24, -15, 32, 0, 9, 8]
+neighbors:[182, 31, 169, 90, 167]
+distance:5
+
+index:98
+[!]fold_angles: [4, 6, 3, 1, 2, 0]
+[@]real_angles:[32, -15, 24, 8, 9, 0]
+neighbors:[169, 37, 182, 170, 63]
+distance:5
+
+index:23
+[!]fold_angles: [4, 6, 6, 2, 1, 4]
+[@]real_angles:[4, 13, -8, 16, 1, 4]
+neighbors:[59, 62, 8, 63, 64, 65]
+distance:4
+
+index:65
+[!]fold_angles: [5, 6, 6, 2, 2, 3]
+[@]real_angles:[12, 13, -8, 16, 9, -4]
+neighbors:[153, 149, 25, 151, 154, 23]
+distance:5
+
+index:31
+[!]fold_angles: [1, 1, 2, 0, 2, 1]
+[@]real_angles:[-6, 15, 2, 0, 9, 8]
+neighbors:[11, 82, 75, 83, 84]
+distance:4
+
+index:63
+[!]fold_angles: [4, 6, 3, 5, 5, 4]
+[@]real_angles:[4, 13, 24, -16, 33, 4]
+neighbors:[142, 100, 150, 23, 98, 151]
+distance:5
+
+index:11
+[!]fold_angles: [6, 3, 2, 0, 2, 3]
+[@]real_angles:[6, 3, 2, 0, 9, -4]
+neighbors:[31, 25, 28, 32, 3]
+distance:3
+
+index:25
+[!]fold_angles: [5, 4, 1, 0, 2, 3]
+[@]real_angles:[12, -3, 8, 0, 9, -4]
+neighbors:[68, 11, 65, 69, 8]
+distance:4
+
+index:111
+[!]fold_angles: [0, 4, 2, 2, 2, 4]
+[@]real_angles:[14, 11, 2, 2, 23, -10]
+neighbors:[208, 124, 215, 123, 44]
+distance:5
+
+index:297
+[!]fold_angles: [0, 3, 0, 6, 4, 6]
+[@]real_angles:[42, 3, 14, 6, 39, -22]
+neighbors:[295, 284, 298, 269]
+distance:8
+
+index:295
+[!]fold_angles: [6, 4, 6, 6, 4, 6]
+[@]real_angles:[-36, 53, 48, -8, 25, 76]
+neighbors:[262, 297, 268, 261, 291, 267]
+distance:8
+
+index:269
+[!]fold_angles: [5, 3, 0, 6, 2, 1]
+[@]real_angles:[-2, 3, 14, 6, -5, 22]
+neighbors:[214, 267, 296, 177, 297]
+distance:7
+
+index:262
+[!]fold_angles: [1, 2, 6, 6, 4, 4]
+[@]real_angles:[36, -19, 48, -8, 25, 4]
+neighbors:[295, 163, 259, 162, 281, 252]
+distance:7
+
+index:208
+[!]fold_angles: [1, 3, 3, 2, 2, 4]
+[@]real_angles:[50, 3, 10, 16, 37, -24]
+neighbors:[251, 111, 162, 283, 227, 103]
+distance:6
+
+index:214
+[!]fold_angles: [2, 6, 0, 6, 2, 4]
+[@]real_angles:[2, -1, 14, 6, -5, 18]
+neighbors:[269, 124, 285, 109, 113]
+distance:6
+
+index:124
+[!]fold_angles: [0, 1, 5, 6, 2, 4]
+[@]real_angles:[0, 1, 12, 6, -5, 18]
+neighbors:[214, 111, 229, 50, 105]
+distance:5
+
+index:162
+[!]fold_angles: [1, 2, 4, 1, 2, 4]
+[@]real_angles:[36, -19, 32, 8, 9, 4]
+neighbors:[261, 70, 208, 262, 128, 206]
+distance:6
+
+index:291
+[!]fold_angles: [6, 4, 6, 0, 3, 0]
+[@]real_angles:[6, 39, -22, 42, 3, 14]
+neighbors:[281, 298, 241, 295]
+distance:8
+
+index:281
+[!]fold_angles: [1, 2, 6, 0, 3, 5]
+[@]real_angles:[22, -5, 6, 14, 3, -2]
+neighbors:[291, 195, 290, 262, 194]
+distance:7
+
+index:241
+[!]fold_angles: [6, 2, 1, 5, 3, 0]
+[@]real_angles:[6, -5, 22, -2, 3, 14]
+neighbors:[290, 145, 291, 141, 268]
+distance:7
+
+index:271
+[!]fold_angles: [6, 2, 2, 3, 5, 6]
+[@]real_angles:[62, 23, 2, 24, 61, -36]
+neighbors:[197, 263, 190, 268, 189, 179]
+distance:7
+
+index:179
+[!]fold_angles: [4, 2, 2, 3, 3, 1]
+[@]real_angles:[-10, 23, 2, 24, -11, 36]
+neighbors:[81, 166, 265, 172, 80, 271]
+distance:6
+
+index:195
+[!]fold_angles: [5, 5, 3, 0, 3, 5]
+[@]real_angles:[12, 5, -4, 14, 3, -2]
+neighbors:[204, 281, 97, 163, 93]
+distance:6
+
+index:268
+[!]fold_angles: [6, 2, 1, 4, 4, 6]
+[@]real_angles:[48, -19, 36, 4, 25, -8]
+neighbors:[259, 174, 295, 271, 241, 172]
+distance:7
+
+index:204
+[!]fold_angles: [2, 1, 3, 0, 3, 1]
+[@]real_angles:[2, 15, 10, 42, -25, 50]
+neighbors:[195, 265, 201, 99, 277]
+distance:6
+
+index:265
+[!]fold_angles: [4, 6, 5, 0, 3, 1]
+[@]real_angles:[-10, 27, -2, 28, -11, 36]
+neighbors:[171, 204, 179, 170, 190]
+distance:7
+
+index:211
+[!]fold_angles: [0, 3, 5, 5, 5, 3]
+[@]real_angles:[14, 3, -2, 12, 5, -4]
+neighbors:[231, 112, 236, 284, 106]
+distance:6
+
+index:228
+[!]fold_angles: [0, 4, 0, 1, 3, 1]
+[@]real_angles:[0, 25, 28, -20, 45, 8]
+neighbors:[244, 123, 243, 138]
+distance:6
+
+index:244
+[!]fold_angles: [1, 3, 1, 1, 3, 1]
+[@]real_angles:[-20, 45, 8, 50, -25, 78]
+neighbors:[147, 228, 166, 227, 146, 225]
+distance:7
+
+index:138
+[!]fold_angles: [2, 4, 0, 1, 5, 6]
+[@]real_angles:[-12, 25, 0, 8, 5, 20]
+neighbors:[57, 225, 226, 107, 228]
+distance:5
+
+index:147
+[!]fold_angles: [6, 5, 1, 1, 3, 3]
+[@]real_angles:[20, 5, 8, 50, -25, 38]
+neighbors:[244, 206, 72, 245, 61, 70]
+distance:6
+
+index:231
+[!]fold_angles: [6, 4, 4, 5, 5, 3]
+[@]real_angles:[-8, 25, 4, -2, 19, 10]
+neighbors:[128, 211, 245, 134, 261, 202]
+distance:6
+
+index:57
+[!]fold_angles: [5, 1, 0, 1, 5, 3]
+[@]real_angles:[12, 1, 0, 8, 5, -4]
+neighbors:[138, 112, 137, 139, 21]
+distance:4
+
+index:112
+[!]fold_angles: [0, 6, 2, 1, 5, 3]
+[@]real_angles:[14, -1, 2, 8, 5, -4]
+neighbors:[57, 211, 192, 216, 45]
+distance:5
+
+index:245
+[!]fold_angles: [6, 5, 3, 6, 5, 3]
+[@]real_angles:[20, 5, 108, -50, 75, 38]
+neighbors:[227, 252, 231, 147, 251, 163]
+distance:7
+
+index:146
+[!]fold_angles: [1, 3, 1, 0, 4, 0]
+[@]real_angles:[-20, 45, 8, 0, 25, 28]
+neighbors:[61, 243, 92, 244]
+distance:6
+
+index:61
+[!]fold_angles: [6, 5, 1, 0, 4, 2]
+[@]real_angles:[20, 5, 8, 0, 25, -12]
+neighbors:[146, 102, 144, 147, 22]
+distance:5
+
+index:92
+[!]fold_angles: [1, 5, 6, 2, 4, 0]
+[@]real_angles:[8, 5, 20, -12, 25, 0]
+neighbors:[144, 80, 146, 34, 166]
+distance:5
+
+index:75
+[!]fold_angles: [1, 5, 5, 4, 2, 1]
+[@]real_angles:[-6, 19, -2, 4, 9, 8]
+neighbors:[28, 172, 31, 166, 173, 174]
+distance:5
+
+index:174
+[!]fold_angles: [3, 5, 5, 4, 4, 6]
+[@]real_angles:[10, 19, -2, 4, 25, -8]
+neighbors:[156, 268, 84, 263, 145, 75]
+distance:6
+
+index:102
+[!]fold_angles: [2, 2, 4, 0, 4, 2]
+[@]real_angles:[2, 23, -10, 14, 11, 2]
+neighbors:[167, 61, 39, 206, 58]
+distance:5
+
+index:166
+[!]fold_angles: [1, 5, 6, 3, 3, 1]
+[@]real_angles:[-6, 19, 6, -4, 17, 8]
+neighbors:[72, 179, 244, 75, 92, 263]
+distance:6
+
+index:167
+[!]fold_angles: [5, 6, 4, 0, 4, 6]
+[@]real_angles:[-2, 27, -10, 14, 11, 6]
+neighbors:[102, 84, 73, 253, 82]
+distance:6
+
+index:84
+[!]fold_angles: [3, 1, 2, 0, 4, 6]
+[@]real_angles:[10, 15, 2, 0, 25, -8]
+neighbors:[184, 167, 174, 185, 31]
+distance:5
+
+index:47
+[!]fold_angles: [0, 2, 1, 1, 1, 2]
+[@]real_angles:[0, 9, 8, -6, 15, 2]
+neighbors:[114, 117, 17, 118, 119]
+distance:4
+
+index:292
+[!]fold_angles: [0, 5, 0, 3, 2, 3]
+[@]real_angles:[84, -23, 28, 52, 9, -4]
+neighbors:[248, 276, 299, 246]
+distance:8
+
+index:248
+[!]fold_angles: [3, 2, 3, 3, 2, 3]
+[@]real_angles:[38, 23, -18, 52, 9, -4]
+neighbors:[187, 292, 149, 186, 293, 148]
+distance:7
+
+index:246
+[!]fold_angles: [6, 5, 0, 3, 1, 4]
+[@]real_angles:[76, -23, 28, 52, 1, 4]
+neighbors:[221, 148, 270, 220, 292]
+distance:7
+
+index:187
+[!]fold_angles: [4, 1, 3, 3, 2, 2]
+[@]real_angles:[18, -13, 38, -4, 9, 16]
+neighbors:[248, 88, 249, 86, 277, 183]
+distance:6
+
+index:114
+[!]fold_angles: [4, 5, 5, 1, 1, 2]
+[@]real_angles:[18, -9, 26, -6, 15, 2]
+neighbors:[217, 47, 86, 46, 136, 173]
+distance:5
+
+index:221
+[!]fold_angles: [1, 3, 0, 3, 1, 2]
+[@]real_angles:[50, -25, 42, 10, 15, 2]
+neighbors:[246, 117, 178, 283, 177]
+distance:6
+
+index:117
+[!]fold_angles: [0, 4, 6, 3, 1, 2]
+[@]real_angles:[0, 25, -8, 10, 15, 2]
+neighbors:[221, 47, 222, 215, 223]
+distance:5
+
+index:86
+[!]fold_angles: [4, 1, 2, 4, 1, 2]
+[@]real_angles:[18, -13, 30, 4, 1, 16]
+neighbors:[186, 33, 114, 187, 56, 83]
+distance:5
+
+index:293
+[!]fold_angles: [3, 2, 3, 0, 5, 0]
+[@]real_angles:[38, 23, -18, 70, -9, 14]
+neighbors:[277, 299, 250, 248]
+distance:8
+
+index:277
+[!]fold_angles: [4, 1, 3, 0, 5, 6]
+[@]real_angles:[18, -13, 38, 14, -9, 34]
+neighbors:[293, 190, 254, 187, 204]
+distance:7
+
+index:250
+[!]fold_angles: [3, 1, 4, 6, 5, 0]
+[@]real_angles:[38, -13, 18, 34, -9, 14]
+neighbors:[254, 154, 293, 185, 149]
+distance:7
+
+index:205
+[!]fold_angles: [3, 1, 1, 5, 6, 3]
+[@]real_angles:[38, 15, -6, 26, 27, -18]
+neighbors:[280, 151, 101, 149, 176, 100]
+distance:6
+
+index:100
+[!]fold_angles: [2, 1, 1, 5, 5, 4]
+[@]real_angles:[2, 15, -6, 26, -9, 18]
+neighbors:[164, 63, 38, 62, 37, 205]
+distance:5
+
+index:190
+[!]fold_angles: [6, 6, 5, 0, 5, 6]
+[@]real_angles:[-8, 13, 12, 14, -9, 34]
+neighbors:[95, 277, 271, 88, 265]
+distance:6
+
+index:149
+[!]fold_angles: [3, 1, 4, 2, 2, 3]
+[@]real_angles:[38, -13, 18, 16, 9, -4]
+neighbors:[249, 65, 248, 205, 250, 62]
+distance:6
+
+index:95
+[!]fold_angles: [1, 4, 5, 0, 5, 4]
+[@]real_angles:[8, -3, 12, 14, -9, 18]
+neighbors:[190, 38, 197, 35, 198]
+distance:5
+
+index:38
+[!]fold_angles: [2, 3, 6, 0, 5, 4]
+[@]real_angles:[2, 3, 6, 14, -9, 18]
+neighbors:[71, 95, 100, 13, 101]
+distance:4
+
+index:18
+[!]fold_angles: [0, 1, 4, 4, 4, 1]
+[@]real_angles:[0, 1, 4, 4, -3, 8]
+neighbors:[42, 48, 50, 6, 51]
+distance:3
+
+index:288
+[!]fold_angles: [0, 6, 0, 5, 1, 5]
+[@]real_angles:[70, 27, 14, 12, 85, -44]
+neighbors:[256, 232, 294, 218]
+distance:7
+
+index:256
+[!]fold_angles: [5, 1, 5, 5, 1, 5]
+[@]real_angles:[-16, 29, 12, -2, 15, 26]
+neighbors:[157, 288, 200, 158, 260, 199]
+distance:7
+
+index:218
+[!]fold_angles: [3, 6, 0, 5, 4, 2]
+[@]real_angles:[-18, 27, 14, 12, -3, 44]
+neighbors:[115, 199, 287, 113, 288]
+distance:6
+
+index:157
+[!]fold_angles: [2, 4, 5, 5, 1, 1]
+[@]real_angles:[16, -3, 12, -2, 15, -6]
+neighbors:[256, 79, 255, 67, 198, 66]
+distance:6
+
+index:42
+[!]fold_angles: [2, 6, 6, 4, 4, 1]
+[@]real_angles:[2, -1, 6, 4, -3, 8]
+neighbors:[78, 18, 67, 109, 15, 64]
+distance:4
+
+index:115
+[!]fold_angles: [4, 5, 0, 5, 4, 1]
+[@]real_angles:[18, -9, 14, 12, -3, 8]
+neighbors:[218, 48, 219, 46, 220]
+distance:5
+
+index:48
+[!]fold_angles: [0, 2, 3, 5, 4, 1]
+[@]real_angles:[0, 9, -4, 12, -3, 8]
+neighbors:[115, 18, 120, 17, 121]
+distance:4
+
+index:67
+[!]fold_angles: [2, 4, 1, 2, 4, 1]
+[@]real_angles:[16, -3, 8, 2, 11, -6]
+neighbors:[158, 30, 42, 157, 41, 24]
+distance:5
+
+index:260
+[!]fold_angles: [5, 1, 5, 0, 6, 0]
+[@]real_angles:[12, 85, -44, 70, 27, 14]
+neighbors:[198, 294, 161, 256]
+distance:7
+
+index:198
+[!]fold_angles: [2, 4, 5, 0, 6, 3]
+[@]real_angles:[44, -3, 12, 14, 27, -18]
+neighbors:[260, 101, 258, 157, 95]
+distance:6
+
+index:161
+[!]fold_angles: [5, 4, 2, 3, 6, 0]
+[@]real_angles:[12, -3, 44, -18, 27, 14]
+neighbors:[258, 85, 260, 69, 200]
+distance:6
+
+index:97
+[!]fold_angles: [5, 4, 4, 6, 3, 5]
+[@]real_angles:[12, -3, 4, 6, 3, -2]
+neighbors:[201, 40, 195, 200, 202, 36]
+distance:5
+
+index:36
+[!]fold_angles: [1, 4, 4, 6, 6, 2]
+[@]real_angles:[8, -3, 4, 6, -1, 2]
+neighbors:[89, 14, 93, 96, 12, 97]
+distance:4
+
+index:101
+[!]fold_angles: [3, 3, 6, 0, 6, 3]
+[@]real_angles:[38, 3, 6, 14, 27, -18]
+neighbors:[194, 198, 205, 79, 38]
+distance:5
+
+index:200
+[!]fold_angles: [5, 4, 2, 1, 1, 5]
+[@]real_angles:[12, -3, 16, -6, 15, -2]
+neighbors:[255, 104, 256, 97, 161, 96]
+distance:6
+
+index:194
+[!]fold_angles: [4, 2, 6, 0, 6, 2]
+[@]real_angles:[18, -5, 6, 14, -1, 2]
+neighbors:[101, 93, 280, 91, 281]
+distance:6
+
+index:93
+[!]fold_angles: [1, 5, 3, 0, 6, 2]
+[@]real_angles:[8, 5, -4, 14, -1, 2]
+neighbors:[188, 194, 36, 34, 195]
+distance:5
+
+index:129
+[!]fold_angles: [0, 6, 3, 3, 3, 6]
+[@]real_angles:[14, 27, -18, 38, 3, 6]
+neighbors:[77, 53, 216, 232, 233]
+distance:5
+
+index:2
+[!]fold_angles: [0, 1, 0, 2, 6, 2]
+[@]real_angles:[0, 1, 0, 2, -1, 2]
+neighbors:[5, 6, 0, 7]
+distance:1
+
+index:5
+[!]fold_angles: [2, 6, 2, 2, 6, 2]
+[@]real_angles:[2, -1, 2, 2, -1, 2]
+neighbors:[10, 2, 14, 15, 1, 16]
+distance:2
+
+index:7
+[!]fold_angles: [4, 1, 0, 2, 3, 5]
+[@]real_angles:[4, 1, 0, 2, 3, -2]
+neighbors:[20, 16, 19, 21, 2]
+distance:2
+
+index:10
+[!]fold_angles: [5, 3, 2, 2, 6, 6]
+[@]real_angles:[-2, 3, 2, 2, -1, 6]
+neighbors:[5, 24, 27, 29, 3, 30]
+distance:3
+
+index:77
+[!]fold_angles: [5, 1, 1, 3, 3, 6]
+[@]real_angles:[-2, 15, -6, 10, 3, 6]
+neighbors:[41, 129, 29, 139, 158, 176]
+distance:5
+
+index:20
+[!]fold_angles: [3, 2, 0, 2, 3, 6]
+[@]real_angles:[-4, 9, 0, 2, 3, 6]
+neighbors:[7, 53, 52, 54, 55]
+distance:3
+
+index:53
+[!]fold_angles: [0, 5, 4, 2, 3, 6]
+[@]real_angles:[14, -9, 18, 2, 3, 6]
+neighbors:[20, 129, 127, 130, 131]
+distance:4
+
+index:29
+[!]fold_angles: [5, 3, 6, 5, 3, 6]
+[@]real_angles:[-2, 3, 6, -2, 3, 6]
+neighbors:[15, 66, 77, 10, 78, 79]
+distance:4
+
+index:1
+[!]fold_angles: [2, 6, 2, 0, 1, 0]
+[@]real_angles:[2, -1, 2, 0, 1, 0]
+neighbors:[3, 0, 4, 5]
+distance:1
+
+index:3
+[!]fold_angles: [5, 3, 2, 0, 1, 4]
+[@]real_angles:[-2, 3, 2, 0, 1, 4]
+neighbors:[1, 8, 9, 10, 11]
+distance:2
+
+index:4
+[!]fold_angles: [2, 3, 5, 4, 1, 0]
+[@]real_angles:[2, 3, -2, 4, 1, 0]
+neighbors:[9, 12, 1, 13, 14]
+distance:2
+
+index:39
+[!]fold_angles: [2, 3, 3, 1, 4, 2]
+[@]real_angles:[2, 3, 10, -6, 11, 2]
+neighbors:[73, 96, 102, 14, 103, 104]
+distance:4
+
+index:104
+[!]fold_angles: [6, 3, 3, 1, 1, 5]
+[@]real_angles:[6, 3, 10, -6, 15, -2]
+neighbors:[209, 200, 58, 40, 85, 39]
+distance:5
+
+index:8
+[!]fold_angles: [4, 4, 1, 0, 1, 4]
+[@]real_angles:[4, -3, 8, 0, 1, 4]
+neighbors:[22, 3, 23, 24, 25]
+distance:3
+
+index:14
+[!]fold_angles: [2, 3, 5, 6, 6, 2]
+[@]real_angles:[2, 3, -2, 6, -1, 2]
+neighbors:[27, 36, 5, 39, 4, 40]
+distance:3
+
+index:22
+[!]fold_angles: [3, 5, 1, 0, 1, 5]
+[@]real_angles:[-4, 5, 8, 0, 1, 12]
+neighbors:[8, 58, 59, 60, 61]
+distance:4
+
+index:58
+[!]fold_angles: [6, 2, 4, 0, 1, 5]
+[@]real_angles:[6, -5, 18, 0, 1, 12]
+neighbors:[140, 22, 104, 141, 102]
+distance:5
+
+index:234
+[!]fold_angles: [0, 5, 6, 6, 6, 5]
+[@]real_angles:[14, -9, 34, -8, 13, 12]
+neighbors:[132, 273, 130, 276, 272]
+distance:6
+
+index:224
+[!]fold_angles: [0, 2, 0, 4, 5, 4]
+[@]real_angles:[0, 9, 56, -24, 33, 32]
+neighbors:[150, 118, 274, 135]
+distance:6
+
+index:150
+[!]fold_angles: [4, 5, 4, 4, 5, 4]
+[@]real_angles:[4, 61, -24, 32, 33, 4]
+neighbors:[90, 224, 63, 136, 182, 126]
+distance:6
+
+index:135
+[!]fold_angles: [1, 2, 0, 4, 6, 3]
+[@]real_angles:[8, 9, 0, 32, -15, 24]
+neighbors:[212, 126, 213, 55, 224]
+distance:5
+
+index:90
+[!]fold_angles: [3, 6, 4, 4, 5, 5]
+[@]real_angles:[24, 13, 4, 4, 33, -16]
+neighbors:[150, 83, 142, 191, 82, 33]
+distance:5
+
+index:132
+[!]fold_angles: [3, 2, 2, 6, 6, 5]
+[@]real_angles:[-4, 9, 16, -8, 13, 12]
+neighbors:[56, 234, 191, 54, 186, 189]
+distance:5
+
+index:212
+[!]fold_angles: [6, 4, 0, 4, 6, 5]
+[@]real_angles:[6, 11, 14, -10, 27, -2]
+neighbors:[135, 273, 108, 134, 107]
+distance:6
+
+index:273
+[!]fold_angles: [0, 3, 1, 4, 6, 5]
+[@]real_angles:[42, 3, 50, -24, 69, -16]
+neighbors:[212, 234, 181, 236, 180]
+distance:7
+
+index:191
+[!]fold_angles: [3, 6, 5, 3, 6, 5]
+[@]real_angles:[24, 13, 12, -4, 41, -16]
+neighbors:[136, 183, 132, 90, 217, 88]
+distance:6
+
+index:182
+[!]fold_angles: [4, 5, 4, 0, 2, 0]
+[@]real_angles:[-24, 33, 32, 0, 9, 56]
+neighbors:[82, 274, 98, 150]
+distance:6
+
+index:82
+[!]fold_angles: [3, 6, 4, 0, 2, 1]
+[@]real_angles:[24, -15, 32, 0, 9, 8]
+neighbors:[182, 31, 169, 90, 167]
+distance:5
+
+index:98
+[!]fold_angles: [4, 6, 3, 1, 2, 0]
+[@]real_angles:[32, -15, 24, 8, 9, 0]
+neighbors:[169, 37, 182, 170, 63]
+distance:5
+
+index:23
+[!]fold_angles: [4, 6, 6, 2, 1, 4]
+[@]real_angles:[4, 13, -8, 16, 1, 4]
+neighbors:[59, 62, 8, 63, 64, 65]
+distance:4
+
+index:65
+[!]fold_angles: [5, 6, 6, 2, 2, 3]
+[@]real_angles:[12, 13, -8, 16, 9, -4]
+neighbors:[153, 149, 25, 151, 154, 23]
+distance:5
+
+index:31
+[!]fold_angles: [1, 1, 2, 0, 2, 1]
+[@]real_angles:[-6, 15, 2, 0, 9, 8]
+neighbors:[11, 82, 75, 83, 84]
+distance:4
+
+index:63
+[!]fold_angles: [4, 6, 3, 5, 5, 4]
+[@]real_angles:[4, 13, 24, -16, 33, 4]
+neighbors:[142, 100, 150, 23, 98, 151]
+distance:5
+
+index:11
+[!]fold_angles: [6, 3, 2, 0, 2, 3]
+[@]real_angles:[6, 3, 2, 0, 9, -4]
+neighbors:[31, 25, 28, 32, 3]
+distance:3
+
+index:25
+[!]fold_angles: [5, 4, 1, 0, 2, 3]
+[@]real_angles:[12, -3, 8, 0, 9, -4]
+neighbors:[68, 11, 65, 69, 8]
+distance:4
+
+index:111
+[!]fold_angles: [0, 4, 2, 2, 2, 4]
+[@]real_angles:[14, 11, 2, 2, 23, -10]
+neighbors:[208, 124, 215, 123, 44]
+distance:5
+
+index:297
+[!]fold_angles: [0, 3, 0, 6, 4, 6]
+[@]real_angles:[42, 3, 14, 6, 39, -22]
+neighbors:[295, 284, 298, 269]
+distance:8
+
+index:295
+[!]fold_angles: [6, 4, 6, 6, 4, 6]
+[@]real_angles:[-36, 53, 48, -8, 25, 76]
+neighbors:[262, 297, 268, 261, 291, 267]
+distance:8
+
+index:269
+[!]fold_angles: [5, 3, 0, 6, 2, 1]
+[@]real_angles:[-2, 3, 14, 6, -5, 22]
+neighbors:[214, 267, 296, 177, 297]
+distance:7
+
+index:262
+[!]fold_angles: [1, 2, 6, 6, 4, 4]
+[@]real_angles:[36, -19, 48, -8, 25, 4]
+neighbors:[295, 163, 259, 162, 281, 252]
+distance:7
+
+index:208
+[!]fold_angles: [1, 3, 3, 2, 2, 4]
+[@]real_angles:[50, 3, 10, 16, 37, -24]
+neighbors:[251, 111, 162, 283, 227, 103]
+distance:6
+
+index:214
+[!]fold_angles: [2, 6, 0, 6, 2, 4]
+[@]real_angles:[2, -1, 14, 6, -5, 18]
+neighbors:[269, 124, 285, 109, 113]
+distance:6
+
+index:124
+[!]fold_angles: [0, 1, 5, 6, 2, 4]
+[@]real_angles:[0, 1, 12, 6, -5, 18]
+neighbors:[214, 111, 229, 50, 105]
+distance:5
+
+index:162
+[!]fold_angles: [1, 2, 4, 1, 2, 4]
+[@]real_angles:[36, -19, 32, 8, 9, 4]
+neighbors:[261, 70, 208, 262, 128, 206]
+distance:6
+
+index:291
+[!]fold_angles: [6, 4, 6, 0, 3, 0]
+[@]real_angles:[6, 39, -22, 42, 3, 14]
+neighbors:[281, 298, 241, 295]
+distance:8
+
+index:281
+[!]fold_angles: [1, 2, 6, 0, 3, 5]
+[@]real_angles:[22, -5, 6, 14, 3, -2]
+neighbors:[291, 195, 290, 262, 194]
+distance:7
+
+index:241
+[!]fold_angles: [6, 2, 1, 5, 3, 0]
+[@]real_angles:[6, -5, 22, -2, 3, 14]
+neighbors:[290, 145, 291, 141, 268]
+distance:7
+
+index:271
+[!]fold_angles: [6, 2, 2, 3, 5, 6]
+[@]real_angles:[62, 23, 2, 24, 61, -36]
+neighbors:[197, 263, 190, 268, 189, 179]
+distance:7
+
+index:179
+[!]fold_angles: [4, 2, 2, 3, 3, 1]
+[@]real_angles:[-10, 23, 2, 24, -11, 36]
+neighbors:[81, 166, 265, 172, 80, 271]
+distance:6
+
+index:195
+[!]fold_angles: [5, 5, 3, 0, 3, 5]
+[@]real_angles:[12, 5, -4, 14, 3, -2]
+neighbors:[204, 281, 97, 163, 93]
+distance:6
+
+index:268
+[!]fold_angles: [6, 2, 1, 4, 4, 6]
+[@]real_angles:[48, -19, 36, 4, 25, -8]
+neighbors:[259, 174, 295, 271, 241, 172]
+distance:7
+
+index:204
+[!]fold_angles: [2, 1, 3, 0, 3, 1]
+[@]real_angles:[2, 15, 10, 42, -25, 50]
+neighbors:[195, 265, 201, 99, 277]
+distance:6
+
+index:265
+[!]fold_angles: [4, 6, 5, 0, 3, 1]
+[@]real_angles:[-10, 27, -2, 28, -11, 36]
+neighbors:[171, 204, 179, 170, 190]
+distance:7
+
+index:211
+[!]fold_angles: [0, 3, 5, 5, 5, 3]
+[@]real_angles:[14, 3, -2, 12, 5, -4]
+neighbors:[231, 112, 236, 284, 106]
+distance:6
+
+index:228
+[!]fold_angles: [0, 4, 0, 1, 3, 1]
+[@]real_angles:[0, 25, 28, -20, 45, 8]
+neighbors:[244, 123, 243, 138]
+distance:6
+
+index:244
+[!]fold_angles: [1, 3, 1, 1, 3, 1]
+[@]real_angles:[-20, 45, 8, 50, -25, 78]
+neighbors:[147, 228, 166, 227, 146, 225]
+distance:7
+
+index:138
+[!]fold_angles: [2, 4, 0, 1, 5, 6]
+[@]real_angles:[-12, 25, 0, 8, 5, 20]
+neighbors:[57, 225, 226, 107, 228]
+distance:5
+
+index:147
+[!]fold_angles: [6, 5, 1, 1, 3, 3]
+[@]real_angles:[20, 5, 8, 50, -25, 38]
+neighbors:[244, 206, 72, 245, 61, 70]
+distance:6
+
+index:231
+[!]fold_angles: [6, 4, 4, 5, 5, 3]
+[@]real_angles:[-8, 25, 4, -2, 19, 10]
+neighbors:[128, 211, 245, 134, 261, 202]
+distance:6
+
+index:57
+[!]fold_angles: [5, 1, 0, 1, 5, 3]
+[@]real_angles:[12, 1, 0, 8, 5, -4]
+neighbors:[138, 112, 137, 139, 21]
+distance:4
+
+index:112
+[!]fold_angles: [0, 6, 2, 1, 5, 3]
+[@]real_angles:[14, -1, 2, 8, 5, -4]
+neighbors:[57, 211, 192, 216, 45]
+distance:5
+
+index:245
+[!]fold_angles: [6, 5, 3, 6, 5, 3]
+[@]real_angles:[20, 5, 108, -50, 75, 38]
+neighbors:[227, 252, 231, 147, 251, 163]
+distance:7
+
+index:146
+[!]fold_angles: [1, 3, 1, 0, 4, 0]
+[@]real_angles:[-20, 45, 8, 0, 25, 28]
+neighbors:[61, 243, 92, 244]
+distance:6
+
+index:61
+[!]fold_angles: [6, 5, 1, 0, 4, 2]
+[@]real_angles:[20, 5, 8, 0, 25, -12]
+neighbors:[146, 102, 144, 147, 22]
+distance:5
+
+index:92
+[!]fold_angles: [1, 5, 6, 2, 4, 0]
+[@]real_angles:[8, 5, 20, -12, 25, 0]
+neighbors:[144, 80, 146, 34, 166]
+distance:5
+
+index:75
+[!]fold_angles: [1, 5, 5, 4, 2, 1]
+[@]real_angles:[-6, 19, -2, 4, 9, 8]
+neighbors:[28, 172, 31, 166, 173, 174]
+distance:5
+
+index:174
+[!]fold_angles: [3, 5, 5, 4, 4, 6]
+[@]real_angles:[10, 19, -2, 4, 25, -8]
+neighbors:[156, 268, 84, 263, 145, 75]
+distance:6
+
+index:102
+[!]fold_angles: [2, 2, 4, 0, 4, 2]
+[@]real_angles:[2, 23, -10, 14, 11, 2]
+neighbors:[167, 61, 39, 206, 58]
+distance:5
+
+index:166
+[!]fold_angles: [1, 5, 6, 3, 3, 1]
+[@]real_angles:[-6, 19, 6, -4, 17, 8]
+neighbors:[72, 179, 244, 75, 92, 263]
+distance:6
+
+index:167
+[!]fold_angles: [5, 6, 4, 0, 4, 6]
+[@]real_angles:[-2, 27, -10, 14, 11, 6]
+neighbors:[102, 84, 73, 253, 82]
+distance:6
+
+index:84
+[!]fold_angles: [3, 1, 2, 0, 4, 6]
+[@]real_angles:[10, 15, 2, 0, 25, -8]
+neighbors:[184, 167, 174, 185, 31]
+distance:5
+
+index:47
+[!]fold_angles: [0, 2, 1, 1, 1, 2]
+[@]real_angles:[0, 9, 8, -6, 15, 2]
+neighbors:[114, 117, 17, 118, 119]
+distance:4
+
+index:292
+[!]fold_angles: [0, 5, 0, 3, 2, 3]
+[@]real_angles:[84, -23, 28, 52, 9, -4]
+neighbors:[248, 276, 299, 246]
+distance:8
+
+index:248
+[!]fold_angles: [3, 2, 3, 3, 2, 3]
+[@]real_angles:[38, 23, -18, 52, 9, -4]
+neighbors:[187, 292, 149, 186, 293, 148]
+distance:7
+
+index:246
+[!]fold_angles: [6, 5, 0, 3, 1, 4]
+[@]real_angles:[76, -23, 28, 52, 1, 4]
+neighbors:[221, 148, 270, 220, 292]
+distance:7
+
+index:187
+[!]fold_angles: [4, 1, 3, 3, 2, 2]
+[@]real_angles:[18, -13, 38, -4, 9, 16]
+neighbors:[248, 88, 249, 86, 277, 183]
+distance:6
+
+index:114
+[!]fold_angles: [4, 5, 5, 1, 1, 2]
+[@]real_angles:[18, -9, 26, -6, 15, 2]
+neighbors:[217, 47, 86, 46, 136, 173]
+distance:5
+
+index:221
+[!]fold_angles: [1, 3, 0, 3, 1, 2]
+[@]real_angles:[50, -25, 42, 10, 15, 2]
+neighbors:[246, 117, 178, 283, 177]
+distance:6
+
+index:117
+[!]fold_angles: [0, 4, 6, 3, 1, 2]
+[@]real_angles:[0, 25, -8, 10, 15, 2]
+neighbors:[221, 47, 222, 215, 223]
+distance:5
+
+index:86
+[!]fold_angles: [4, 1, 2, 4, 1, 2]
+[@]real_angles:[18, -13, 30, 4, 1, 16]
+neighbors:[186, 33, 114, 187, 56, 83]
+distance:5
+
+index:293
+[!]fold_angles: [3, 2, 3, 0, 5, 0]
+[@]real_angles:[38, 23, -18, 70, -9, 14]
+neighbors:[277, 299, 250, 248]
+distance:8
+
+index:277
+[!]fold_angles: [4, 1, 3, 0, 5, 6]
+[@]real_angles:[18, -13, 38, 14, -9, 34]
+neighbors:[293, 190, 254, 187, 204]
+distance:7
+
+index:250
+[!]fold_angles: [3, 1, 4, 6, 5, 0]
+[@]real_angles:[38, -13, 18, 34, -9, 14]
+neighbors:[254, 154, 293, 185, 149]
+distance:7
+
+index:205
+[!]fold_angles: [3, 1, 1, 5, 6, 3]
+[@]real_angles:[38, 15, -6, 26, 27, -18]
+neighbors:[280, 151, 101, 149, 176, 100]
+distance:6
+
+index:100
+[!]fold_angles: [2, 1, 1, 5, 5, 4]
+[@]real_angles:[2, 15, -6, 26, -9, 18]
+neighbors:[164, 63, 38, 62, 37, 205]
+distance:5
+
+index:190
+[!]fold_angles: [6, 6, 5, 0, 5, 6]
+[@]real_angles:[-8, 13, 12, 14, -9, 34]
+neighbors:[95, 277, 271, 88, 265]
+distance:6
+
+index:149
+[!]fold_angles: [3, 1, 4, 2, 2, 3]
+[@]real_angles:[38, -13, 18, 16, 9, -4]
+neighbors:[249, 65, 248, 205, 250, 62]
+distance:6
+
+index:95
+[!]fold_angles: [1, 4, 5, 0, 5, 4]
+[@]real_angles:[8, -3, 12, 14, -9, 18]
+neighbors:[190, 38, 197, 35, 198]
+distance:5
+
+index:38
+[!]fold_angles: [2, 3, 6, 0, 5, 4]
+[@]real_angles:[2, 3, 6, 14, -9, 18]
+neighbors:[71, 95, 100, 13, 101]
+distance:4
+
+index:18
+[!]fold_angles: [0, 1, 4, 4, 4, 1]
+[@]real_angles:[0, 1, 4, 4, -3, 8]
+neighbors:[42, 48, 50, 6, 51]
+distance:3
+
+index:288
+[!]fold_angles: [0, 6, 0, 5, 1, 5]
+[@]real_angles:[70, 27, 14, 12, 85, -44]
+neighbors:[256, 232, 294, 218]
+distance:7
+
+index:256
+[!]fold_angles: [5, 1, 5, 5, 1, 5]
+[@]real_angles:[-16, 29, 12, -2, 15, 26]
+neighbors:[157, 288, 200, 158, 260, 199]
+distance:7
+
+index:218
+[!]fold_angles: [3, 6, 0, 5, 4, 2]
+[@]real_angles:[-18, 27, 14, 12, -3, 44]
+neighbors:[115, 199, 287, 113, 288]
+distance:6
+
+index:157
+[!]fold_angles: [2, 4, 5, 5, 1, 1]
+[@]real_angles:[16, -3, 12, -2, 15, -6]
+neighbors:[256, 79, 255, 67, 198, 66]
+distance:6
+
+index:42
+[!]fold_angles: [2, 6, 6, 4, 4, 1]
+[@]real_angles:[2, -1, 6, 4, -3, 8]
+neighbors:[78, 18, 67, 109, 15, 64]
+distance:4
+
+index:115
+[!]fold_angles: [4, 5, 0, 5, 4, 1]
+[@]real_angles:[18, -9, 14, 12, -3, 8]
+neighbors:[218, 48, 219, 46, 220]
+distance:5
+
+index:48
+[!]fold_angles: [0, 2, 3, 5, 4, 1]
+[@]real_angles:[0, 9, -4, 12, -3, 8]
+neighbors:[115, 18, 120, 17, 121]
+distance:4
+
+index:67
+[!]fold_angles: [2, 4, 1, 2, 4, 1]
+[@]real_angles:[16, -3, 8, 2, 11, -6]
+neighbors:[158, 30, 42, 157, 41, 24]
+distance:5
+
+index:260
+[!]fold_angles: [5, 1, 5, 0, 6, 0]
+[@]real_angles:[12, 85, -44, 70, 27, 14]
+neighbors:[198, 294, 161, 256]
+distance:7
+
+index:198
+[!]fold_angles: [2, 4, 5, 0, 6, 3]
+[@]real_angles:[44, -3, 12, 14, 27, -18]
+neighbors:[260, 101, 258, 157, 95]
+distance:6
+
+index:161
+[!]fold_angles: [5, 4, 2, 3, 6, 0]
+[@]real_angles:[12, -3, 44, -18, 27, 14]
+neighbors:[258, 85, 260, 69, 200]
+distance:6
+
+index:97
+[!]fold_angles: [5, 4, 4, 6, 3, 5]
+[@]real_angles:[12, -3, 4, 6, 3, -2]
+neighbors:[201, 40, 195, 200, 202, 36]
+distance:5
+
+index:36
+[!]fold_angles: [1, 4, 4, 6, 6, 2]
+[@]real_angles:[8, -3, 4, 6, -1, 2]
+neighbors:[89, 14, 93, 96, 12, 97]
+distance:4
+
+index:101
+[!]fold_angles: [3, 3, 6, 0, 6, 3]
+[@]real_angles:[38, 3, 6, 14, 27, -18]
+neighbors:[194, 198, 205, 79, 38]
+distance:5
+
+index:200
+[!]fold_angles: [5, 4, 2, 1, 1, 5]
+[@]real_angles:[12, -3, 16, -6, 15, -2]
+neighbors:[255, 104, 256, 97, 161, 96]
+distance:6
+
+index:194
+[!]fold_angles: [4, 2, 6, 0, 6, 2]
+[@]real_angles:[18, -5, 6, 14, -1, 2]
+neighbors:[101, 93, 280, 91, 281]
+distance:6
+
+index:93
+[!]fold_angles: [1, 5, 3, 0, 6, 2]
+[@]real_angles:[8, 5, -4, 14, -1, 2]
+neighbors:[188, 194, 36, 34, 195]
+distance:5
+
+129's distances: [5, 6, 5, 6, 4, 3]
+2's distances: [1, 6, 8, 6, 8, 7]
+5's distances: [2, 6, 8, 7, 7, 7]
+7's distances: [2, 5, 7, 5, 7, 6]
+10's distances: [3, 5, 7, 6, 6, 6]
+77's distances: [5, 5, 6, 6, 5, 4]
+20's distances: [3, 6, 6, 4, 6, 5]
+53's distances: [4, 7, 5, 5, 5, 4]
+29's distances: [4, 6, 6, 7, 5, 5]
+1's distances: [1, 6, 8, 6, 8, 7]
+3's distances: [2, 5, 7, 5, 7, 6]
+4's distances: [2, 5, 7, 5, 7, 6]
+39's distances: [4, 4, 7, 5, 6, 5]
+104's distances: [5, 5, 6, 6, 5, 4]
+8's distances: [3, 4, 6, 5, 6, 5]
+14's distances: [3, 5, 7, 6, 6, 6]
+22's distances: [4, 3, 6, 6, 5, 6]
+58's distances: [5, 4, 7, 5, 4, 5]

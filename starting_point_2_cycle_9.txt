@@ -1,0 +1,108 @@
+index:129
+[!]fold_angles: [0, 5, 6, 6, 6, 5]
+[@]real_angles:[28, 54, -36, 76, 6, 12]
+neighbors:[77, 53, 216, 232, 233]
+distance:5
+
+index:2
+[!]fold_angles: [0, 2, 0, 4, 5, 4]
+[@]real_angles:[0, 2, 0, 4, -2, 4]
+neighbors:[5, 6, 0, 7]
+distance:1
+
+index:5
+[!]fold_angles: [4, 5, 4, 4, 5, 4]
+[@]real_angles:[4, -2, 4, 4, -2, 4]
+neighbors:[10, 2, 14, 15, 1, 16]
+distance:2
+
+index:7
+[!]fold_angles: [1, 2, 0, 4, 6, 3]
+[@]real_angles:[8, 2, 0, 4, 6, -4]
+neighbors:[20, 16, 19, 21, 2]
+distance:2
+
+index:10
+[!]fold_angles: [3, 6, 4, 4, 5, 5]
+[@]real_angles:[-4, 6, 4, 4, -2, 12]
+neighbors:[5, 24, 27, 29, 3, 30]
+distance:3
+
+index:77
+[!]fold_angles: [3, 2, 2, 6, 6, 5]
+[@]real_angles:[-4, 30, -12, 20, 6, 12]
+neighbors:[41, 129, 29, 139, 158, 176]
+distance:5
+
+index:20
+[!]fold_angles: [6, 4, 0, 4, 6, 5]
+[@]real_angles:[-8, 18, 0, 4, 6, 12]
+neighbors:[7, 53, 52, 54, 55]
+distance:3
+
+index:53
+[!]fold_angles: [0, 3, 1, 4, 6, 5]
+[@]real_angles:[28, -18, 36, 4, 6, 12]
+neighbors:[20, 129, 127, 130, 131]
+distance:4
+
+index:29
+[!]fold_angles: [3, 6, 5, 3, 6, 5]
+[@]real_angles:[-4, 6, 12, -4, 6, 12]
+neighbors:[15, 66, 77, 10, 78, 79]
+distance:4
+
+index:1
+[!]fold_angles: [4, 5, 4, 0, 2, 0]
+[@]real_angles:[4, -2, 4, 0, 2, 0]
+neighbors:[3, 0, 4, 5]
+distance:1
+
+index:3
+[!]fold_angles: [3, 6, 4, 0, 2, 1]
+[@]real_angles:[-4, 6, 4, 0, 2, 8]
+neighbors:[1, 8, 9, 10, 11]
+distance:2
+
+index:4
+[!]fold_angles: [4, 6, 3, 1, 2, 0]
+[@]real_angles:[4, 6, -4, 8, 2, 0]
+neighbors:[9, 12, 1, 13, 14]
+distance:2
+
+index:39
+[!]fold_angles: [4, 6, 6, 2, 1, 4]
+[@]real_angles:[4, 6, 20, -12, 22, 4]
+neighbors:[73, 96, 102, 14, 103, 104]
+distance:4
+
+index:104
+[!]fold_angles: [5, 6, 6, 2, 2, 3]
+[@]real_angles:[12, 6, 20, -12, 30, -4]
+neighbors:[209, 200, 58, 40, 85, 39]
+distance:5
+
+index:8
+[!]fold_angles: [1, 1, 2, 0, 2, 1]
+[@]real_angles:[8, -6, 16, 0, 2, 8]
+neighbors:[22, 3, 23, 24, 25]
+distance:3
+
+index:14
+[!]fold_angles: [4, 6, 3, 5, 5, 4]
+[@]real_angles:[4, 6, -4, 12, -2, 4]
+neighbors:[27, 36, 5, 39, 4, 40]
+distance:3
+
+index:22
+[!]fold_angles: [6, 3, 2, 0, 2, 3]
+[@]real_angles:[-8, 10, 16, 0, 2, 24]
+neighbors:[8, 58, 59, 60, 61]
+distance:4
+
+index:58
+[!]fold_angles: [5, 4, 1, 0, 2, 3]
+[@]real_angles:[12, -10, 36, 0, 2, 24]
+neighbors:[140, 22, 104, 141, 102]
+distance:5
+
