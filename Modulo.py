@@ -178,7 +178,7 @@ class Hexagon:
 
 
 if __name__ == '__main__':
-    f = open("starting_point_2_cycle_9.txt", "a")
+    f = open("output2.txt", "a")
     info_list = []
     p_list = [7]
 
@@ -186,7 +186,7 @@ if __name__ == '__main__':
 
     graph_list = []
 
-    for i in range(2,3):
+    for i in range(1,2):
         vertex_dict = {}
         p = 7  # modulo
         vertex_num = 0
@@ -316,8 +316,8 @@ if __name__ == '__main__':
         print(f"girth_len_dict:{girth_len_dict}", file=f)
         print(f"cycle_9_list: {cycle_9_list}", file=f )
 
-        """
-        cycle_9_list = [[129,2,5,7,10,77,20,53,29],[1,3,4,39,104,8,14,22,58]]
+        
+        
         for cycle_9 in cycle_9_list:
             for v in cycle_9:
                 print("index:" + str(v), file=f)
@@ -327,11 +327,13 @@ if __name__ == '__main__':
                 print(f"distance:{d[v]}\n", file=f)
         #n = vertex_num + 1
         """
+        cycle_9_list = [[129, 2, 5, 7, 10, 77, 20, 53, 29], [1, 3, 4, 39, 104, 8, 14, 22, 58]]
         distance_iso_dict = {}
-        for s in range(1,7):
-            print("\n##########with starting point " + str(i) + " #######")
+        for s in range(1, 7):
+            print(s)
+            print(f"\n##########with starting point {s} #######", file=f)
             for cycle_9 in cycle_9_list:
-                print(f"cycle: {cycle_9}")
+                print(f"cycle: {cycle_9}", file=f)
                 for v in cycle_9:
                     if s != 1:
                         #do the convert
@@ -354,19 +356,20 @@ if __name__ == '__main__':
                         print(f"neighbors:{vertex_dict[v].neighbors}", file=f)
                         print(f"distance:{d[v]}\n", file=f)
 
-
+        """
         for key in distance_iso_dict:
             print(f"{key}'s distances: {distance_iso_dict[key]}", file=f)
         f.close()
-        #print(len(vertex_dict))
         """
+        #print(len(vertex_dict))
+
         #girth = shortest_cycle(n)/2
         #info = [p, distinct_eigval_num, first, second]
         #info = [p, n, girth_dict, girth_len_dict]
         #info = [p, n, bipartite.is_bipartite(G), distance_measures.diameter(G), girth , first, second]
         #info_list.append(info)
 
-    f.close()
+    #f.close()
     #print(tabulate(info_list,headers = ["p","# of dictinct eigenvalues","first","second"]))
     #print(tabulate(info_list, headers=["p", "vertex number", "is bipartite", "diameter", "girth", "largest eigenval", "2nd largest eigenval"]))
     #print(tabulate(info_list, headers=["p", "vertex number", "girth list","girth length dict"]))
